@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **https://socket.io/**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emmy13/](https://github.com/emmy13/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://emmy13.github.io/portfolio/)
 
 - 💬 Ask me about **HTML, CSS, JS, Express**
 
 - 📫 How to reach me **emmatenny2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AK_LmlDXbxqV6ydQYu53Axt0UmVQhwS9/view?usp=share_link](https://drive.google.com/file/d/1AK_LmlDXbxqV6ydQYu53Axt0UmVQhwS9/view?usp=share_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1AK_LmlDXbxqV6ydQYu53Axt0UmVQhwS9/view?usp=share_link)
 
 - ⚡ Fun fact **I enjoy challenging projects, it forces me to outsource**
 
