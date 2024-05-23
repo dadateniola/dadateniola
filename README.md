@@ -7,16 +7,13 @@
             <img src="https://img.icons8.com/fluency/30/000000/star.png" />
             <img src="https://img.icons8.com/fluency/30/000000/star.png" /><img src="https://img.icons8.com/color/30/000000/star--v1.png"/>
  </div><br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=omololevy&label=Profile%20viewers:&color=FE7A16&style=for-the-badge" alt="omololevy" /> </p>
-
 
 <!-- GREETING  -->
 <h3 align="center">
-  Hello! Welcome to my profile.<br> *****
-             
+  Hello! Welcome to my profile.<br>         
 
 <p align="center">
-  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Follow%20if%20you%20find%20me%20cool!;I%20follow-back%20soonest.;%20My%20mail%20is%20cotechlevy@gmail.com;I%20am%20ready%20for%20collaboration.;%20Fork,%20clone,%20star,%20or%20download;%20any%20repo%20of%20your%20choice!&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20fullstack%20web%20developer.;Open%20to%20remote%20and%20onsite%20opportunities;Thank%20you%20checking%20me%20out&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
@@ -36,7 +33,7 @@
 <img src="https://img.shields.io/badge/Language-English%2C%20Yoruba-blue" />
 </p><br>
 
-</h3> <br><br>
+</h3> <br>
 
 ## Skills and Tools
 <div align="center">
