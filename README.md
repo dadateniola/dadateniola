@@ -10,10 +10,10 @@
 
 <!-- GREETING  -->
 <h3 align="center">
-  Hello! Welcome to my profile.<br>         
+  Hello! Welcome to my profile.<br><br>     
 
 <p align="center">
-  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20fullstack%20web%20developer.;Open%20to%20remote%20and%20onsite%20opportunities;Thank%20you%20checking%20me%20out&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
+  <a href="https://github.com/omololevy/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20a%20fullstack%20web%20developer.;Open%20to%20remote%20and%20onsite%20jobs;Thank%20you%20for%20checking%20me%20out&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&size=22"></a>
 </p>
 
 <div align="center"> Social and Contact Info. </div><br>
