@@ -97,7 +97,7 @@
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
-      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /> </td>
+      <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
     </tr>
     <tr> 
