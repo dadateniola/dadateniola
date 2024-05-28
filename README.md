@@ -58,11 +58,13 @@
     <tr>
       <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> </td>
       <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> </td>
+      <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> </td>
     </tr>
     <tr>
       <td align="center" width=110>Typescript</td>
       <td align="center" width=110>Node.JS</td>
+      <td align="center" width=110>PHP</td>
       <td align="center" width=110>MySQL</td>
     </tr>
   </table>
