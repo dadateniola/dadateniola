@@ -57,10 +57,12 @@
     </tr>
     <tr>
       <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> </td>
+      <td align="center" width=110>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> </td>
       <td align="center" width=110> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> </td>
     </tr>
     <tr>
       <td align="center" width=110>Typescript</td>
+      <td align="center" width=110>Node.JS</td>
       <td align="center" width=110>MySQL</td>
     </tr>
   </table>
@@ -73,9 +75,11 @@
     </thead>
     <tr>
       <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></td>
+      <td align="center" width=110><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" /></td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
       <tr align="center"> 
+        <td align="center" width=110>Express.JS</td>
         <td align="center" width=110>React</td>
         <td align="center" width=110>Next.JS</td>
         <td align="center" width=110>Bootstrap</td>
